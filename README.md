@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/blue-divider.png" width="100%" height="3px">
+  <img src="https://img.shields.io/badge/-%20-36BCF7?style=for-the-badge&labelColor=36BCF7&color=9B59B6" width="100%">
 </p>
-
 
 <h2 align="left">🧑‍💻 About Me</h2>
 

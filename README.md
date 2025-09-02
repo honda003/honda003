@@ -18,7 +18,7 @@
     </td>
     <td align="center" width="50%" style="border: 1px solid #ccc; padding: 10px;">
       <h3>🌟 Professional</h3>
-      🚀 <b>Data Engineer</b> with a strong foundation in <b>big data</b>, <b>cloud services</b>, and <b>data architectures</b>.<br>
+      🚀 <b>Data Engineer</b> with a strong foundation in <b>big data</b>, <b>cloud services</b>, and <b>dataops</b>.<br>
       Skilled at building <b>real-time streaming & batch pipelines</b>, <b>ETL workflows</b>, and <b>analytics dashboards</b> for decision-making.
     </td>
   </tr>
@@ -32,7 +32,6 @@
   <tr>
     <td align="center" style="border: 1px solid #ccc; padding: 10px;">
       🚀 Building <b>scalable data pipelines</b><br>
-      ⚡ Designing <b>real-time streaming architectures</b><br>
       ☁️ Cloud-native <b>solutions</b> on <b>Azure</b> and <b>AWS</b><br>
       🔄 Automating <b>ETL/ELT workflows</b> for analytics<br>
       🎨 Crafting <b>streaming and analytical dashboards</b> that bring data to life

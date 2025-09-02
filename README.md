@@ -15,8 +15,7 @@
       <h3>🎓 Education & Background</h3>
       <p>🎓 <b>Data Engineering Track (ITI, 2025)</b><br>
       🎓 <b>Aeronautical Engineering & Aviation Management</b><br>
-      Cairo University (GPA: 3.35)<br>
-      🏆 <b>Graduation Project:</b> SkyLinker – Airline Operations System (A+)</p>
+      Cairo University
     </td>
     <td align="center" width="50%">
       <h3>🌟 Professional</h3>

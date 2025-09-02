@@ -13,7 +13,7 @@
   <tr>
     <td align="center" width="50%">
       <h3>🎓 Education & Background</h3>
-      <p>🎓 <b>Data Engineering Track (ITI, 2025)</b><br>
+      <p>🎓 <b>Data Engineering Professional Training (ITI, 2025)</b><br>
       🎓 <b>Aeronautical Engineering & Aviation Management (Cairo University, 2019-2024)</b>
     </td>
     <td align="center" width="50%">

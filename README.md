@@ -4,7 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&size=24&lines=Data+Engineer;Big+Data+Enthusiast;Aeronautical+Engineer;Management+Engineer;ETL+Automation&pause=1000" alt="Typing SVG" />
 </p>
 
-<hr style="height: 3px; border: none; background-color: #36BCF7;" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/blue-divider.png" width="100%" height="3px">
+</p>
+
 
 <h2 align="left">🧑‍💻 About Me</h2>
 

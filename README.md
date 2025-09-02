@@ -1,5 +1,5 @@
-# ✈️ Flying high with data 👨‍💻
-# Data Engineer | Aeronautical Engineer | Management Engineer
+<h1 align="center">☁️ Flying high with data ☁️</h1>
+<h3 align="center">Data Engineer | Aeronautical Engineer | Management Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&size=24&lines=Data+Engineer;Big+Data+Enthusiast;Cloud+Native+Pipelines;Real-time+Streaming;ETL+Automation&pause=1000" alt="Typing SVG" />

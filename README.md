@@ -7,15 +7,20 @@
 ## 🧑‍💻 About Me  
 
 | 🎓 **Education & Background** | 🌟 **Professional** |
-|------------------------------|----------------------|
+|:-----------------------------:|:-------------------:|
 | 🎓 **Data Engineering Track (ITI, 2025)**  <br> 🎓 **Aeronautical Engineering & Aviation Management** — Cairo University (GPA: 3.35)  <br> 🏆 **Graduation Project:** SkyLinker – Airline Operations System (A+) | 🚀 **Data Engineer** with a strong foundation in **big data**, **cloud services**, and **data architectures**. Skilled at building **real-time streaming pipelines**, **ETL workflows**, and **analytics dashboards** for decision-making. |
 
-### **🎯 Current Focus**
-- 🚀 Building **scalable data pipelines**  
-- ⚡ Real-time **data streaming architectures**  
-- ☁️ Cloud-native **solutions** on **Azure** and **AWS**  
-- 🔄 ETL/ELT **automation and orchestration**  
-- 🎨 Crafting **streaming and analytical dashboards** that bring data to life  
+---
+
+## 🎯 Current Focus  
+
+| Focus Areas |
+|:-----------:|
+| 🚀 Building **scalable data pipelines**  |
+| ⚡ Designing **real-time streaming architectures**  |
+| ☁️ Building **cloud-native solutions** on **Azure** and **AWS**  |
+| 🔄 Automating **ETL/ELT workflows** for analytics  |
+| 🎨 Crafting **streaming and analytical dashboards** that bring data to life  |
 
 ---
 
@@ -34,7 +39,7 @@
 ![SSIS](https://img.shields.io/badge/-SSIS-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![SSAS](https://img.shields.io/badge/-SSAS-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Talend](https://img.shields.io/badge/-Talend-F80000?logo=talend&logoColor=white)
-![dbt (in progress)](https://img.shields.io/badge/-dbt-FD5438?logo=dbt&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FD5438?logo=dbt&logoColor=white)
 
 ---
 
@@ -67,8 +72,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![Kubernetes (in progress)](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![IaC (Terraform in progress)](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 
 ---
 
@@ -128,17 +133,16 @@
 ## 🎯 Current Learning Journey & Future Goals  
 
 | **🔥 Currently Learning** | **🎯 Next Milestones** |
-|--------------------------|-------------------------|
-| - Kubernetes for **pipeline orchestration** <br> - **dbt** for modern data transformation <br> - **Infrastructure as Code (Terraform)** <br> - Reading **data engineering books** to deepen expertise in pipelines, cloud, and big data best practices | - Building **end-to-end data engineering projects** showcasing real-time and batch pipelines <br> - Earning **Databricks Data Engineer Associate certification** <br> - Completing **AWS certifications** (Cloud Practitioner, Solutions Architect Associate, Data Engineering Specializations) <br> - Expanding **IaC expertise** with Terraform for automated cloud deployments <br> - Reaching a **high number of solved problems on LeetCode** to strengthen DSA and problem-solving skills |
+|:-------------------------:|:-----------------------:|
+| ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) **Kubernetes** for pipeline orchestration <br> ![dbt](https://img.shields.io/badge/-dbt-FD5438?logo=dbt&logoColor=white) **dbt** for modern data transformation <br> ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) **Infrastructure as Code (Terraform)** <br> 📚 Reading **data engineering books** to deepen expertise in pipelines, cloud, and big data best practices | - Building **end-to-end data engineering projects** with real-time and batch pipelines <br> - Earning **Databricks Data Engineer Associate certification** <br> - Completing **AWS certifications** (Cloud Practitioner, Solutions Architect Associate, Data Engineering Specializations) <br> - Expanding **IaC expertise** with Terraform for automated deployments <br> - Reaching a **high number of solved problems on LeetCode** to strengthen DSA skills |
 
 ---
 
-### 📫 Connect with Me  
+## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ho03)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/honda003)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohannad.husny@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Honda03/)
-
 
 ---
 

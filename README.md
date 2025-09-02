@@ -101,23 +101,14 @@
 <table>
   <tr>
     <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
-      <h3>🚇 GTFS Real-Time Anomaly Detection</h3>
-      <p><b>Tech:</b> Kafka • Spark Structured Streaming • Airflow • Docker • ClickHouse • Grafana • Power BI</p>
-      <ul align="left">
-        <li>Ingested GTFS-RT APIs into Kafka for real-time processing</li>
-        <li>Applied PySpark transformations in the Silver layer</li>
-        <li>Low-latency analytics powered by ClickHouse</li>
-        <li>Visualized anomalies in Grafana and Power BI</li>
-      </ul>
-    </td>
-    <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
-      <h3>🏎️ Formula 1 Analytics Platform</h3>
-      <p><b>Tech:</b> Databricks • PySpark • Delta Lake • Azure Data Factory • Power BI</p>
-      <ul align="left">
-        <li>Incremental batch ingestion with ADF triggers</li>
-        <li>Gold-layer visualizations for drivers and constructors</li>
-        <li>Rich Power BI dashboards with interactive filters</li>
-      </ul>
+       <h3>🚇 GTFS Real-Time Transit Data Pipeline</h3>
+  <p><b>Tech:</b> Azure • Apache Airflow • Apache Kafka • Apache Spark • PostgreSQL • ClickHouse • Azure Data Lake • Power BI • Metabase • Docker</p>
+  <ul align="left">
+    <li>Orchestrated <b>batch pipelines</b> with Airflow and Spark, implementing <b>SCD Type 2</b> in PostgreSQL, and optimized analytics with ClickHouse.</li>
+    <li>Ingested <b>GTFS-RT feeds</b> into Kafka and applied <b>Spark Structured Streaming</b> for real-time processing.</li>
+    <li>Created <b>day-to-day operational dashboards</b> in Power BI and <b>real-time dashboards</b> in Metabase.</li>
+    <li>Delivered <b>business value</b> by enabling resource optimization, improving on-time performance, and enhancing passenger experience.</li>
+  </ul>
     </td>
   </tr>
 </table>
@@ -151,6 +142,8 @@
 
 <h2 align="left">🎯 Current Learning Journey & Future Goals</h2>
 
+<div align="center">
+  
 <table>
   <tr>
     <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
@@ -174,6 +167,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 

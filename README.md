@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Muhammed 👋  
 
-<!--
-**honda003/honda003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Engineer | Big Data Enthusiast | Cloud & ETL Developer**
 
-Here are some ideas to get you started:
+I'm a Data Engineer passionate about building data pipelines, real-time streaming systems, and analytics solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Python, SQL, Bash, MATLAB, Django, C  
+- **Big Data:** Spark, Kafka, Hadoop, Hive  
+- **Cloud:** Azure, AWS, Snowflake  
+- **Tools:** Databricks, Docker, Airflow, Power BI, Grafana  
+
+---
+
+### 🔥 Featured Projects
+- [**Real-Time Anomaly Detection (GTFS Data)**](https://github.com/honda003/gtfs-anomaly-detection)  
+  🚇 Real-time streaming pipeline with Kafka, Spark, and Docker, storing data in AWS S3 with Delta Lake and visualized in Grafana and Power BI.  
+
+- [**Formula 1 Analytics Platform**](https://github.com/honda003/f1-analytics)  
+  🏎️ Azure Databricks Medallion Architecture pipeline with Delta Lake, PySpark, and rich interactive Power BI dashboards.
+
+- [**SkyLinker – Airline Operations Management**](https://github.com/MariamHesham02/SkyLinker)  
+  ✈️ Airline management system using Django and PostgreSQL with automated scheduling and analytics.
+
+---
+
+### 📫 Connect with Me  
+- 📧 Email: [mohannad.husny@gmail.com](mailto:mohannad.husny@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/ho03)

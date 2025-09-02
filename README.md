@@ -27,7 +27,7 @@
 
 ---
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="left">🎯 Current Focus</h2>
 
 <table align="center">
   <tr>
@@ -43,7 +43,7 @@
 
 ---
 
-<h2 align="center">💣 Tech Arsenal</h2>
+<h2 align="left">💣 Tech Arsenal</h2>
 
 <div align="center">
 
@@ -98,7 +98,7 @@
 
 ---
 
-<h2 align="center">🚀 Data Engineering Projects</h2>
+<h2 align="left">🚀 Data Engineering Projects</h2>
 
 <table>
   <tr>
@@ -151,7 +151,7 @@
 
 ---
 
-<h2 align="center">🎯 Current Learning Journey & Future Goals</h2>
+<h2 align="left">🎯 Current Learning Journey & Future Goals</h2>
 
 <table>
   <tr>
@@ -179,7 +179,7 @@
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2>
+<h2 align="left">📫 Connect with Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/ho03"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>

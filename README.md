@@ -7,33 +7,34 @@
 
 ---
 
-## 🧑‍💻 About Me  
+<h2 align="center">🧑‍💻 About Me</h2>
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 1px solid #ccc; padding: 10px;">
       <h3>🎓 Education & Background</h3>
-      <p>🎓 <b>Data Engineering Professional Training (ITI, 2025)</b><br>
-      🎓 <b>Aeronautical Engineering & Aviation Management (Cairo University, 2019-2024)</b>
+      🎓 <b>Data Engineering Professional Training (ITI, 2025)</b><br>
+      🎓 <b>Aeronautical Engineering & Aviation Management</b> — Cairo University (GPA: 3.35)<br>
+      🏆 Graduation Project: <b>SkyLinker</b> – Airline Operations System (A+)
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 1px solid #ccc; padding: 10px;">
       <h3>🌟 Professional</h3>
-      <p>🚀 <b>Data Engineer</b> with a strong foundation in <b>big data</b>, <b>cloud services</b>, and <b>data architectures</b>.<br>
-      Skilled at building <b>real-time streaming pipelines</b>, <b>ETL workflows</b>, and <b>analytics dashboards</b> for decision-making.</p>
+      🚀 <b>Data Engineer</b> with a strong foundation in <b>big data</b>, <b>cloud services</b>, and <b>data architectures</b>.<br>
+      Skilled at building <b>real-time streaming pipelines</b>, <b>ETL workflows</b>, and <b>analytics dashboards</b> for decision-making.
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 Current Focus  
+<h2 align="center">🎯 Current Focus</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
+    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
       🚀 Building <b>scalable data pipelines</b><br>
       ⚡ Designing <b>real-time streaming architectures</b><br>
-      ☁️ Building <b>cloud-native solutions</b> on <b>Azure</b> and <b>AWS</b><br>
+      ☁️ Cloud-native <b>solutions</b> on <b>Azure</b> and <b>AWS</b><br>
       🔄 Automating <b>ETL/ELT workflows</b> for analytics<br>
       🎨 Crafting <b>streaming and analytical dashboards</b> that bring data to life
     </td>
@@ -42,126 +43,151 @@
 
 ---
 
-## 💣 Tech Arsenal  
+<h2 align="center">💣 Tech Arsenal</h2>
 
-### **📊 Data Processing & Analytics**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-FDEE21?logo=apachespark&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
+<div align="center">
 
----
+<h3>📊 Data Processing & Analytics</h3>
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PySpark-FDEE21?logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white"/>
 
-### **🛠️ Data Engineering & ETL Tools**  
-![SSIS](https://img.shields.io/badge/-SSIS-CC2927?logo=microsoftsqlserver&logoColor=white)
-![SSAS](https://img.shields.io/badge/-SSAS-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Talend](https://img.shields.io/badge/-Talend-F80000?logo=talend&logoColor=white)
-![dbt](https://img.shields.io/badge/-dbt-FD5438?logo=dbt&logoColor=white)
+<h3>🛠️ Data Engineering & ETL Tools</h3>
+<img src="https://img.shields.io/badge/-SSIS-CC2927?logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SSAS-CC2927?logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Talend-F80000?logo=talend&logoColor=white"/>
+<img src="https://img.shields.io/badge/-dbt-FD5438?logo=dbt&logoColor=white"/>
 
----
+<h3>🌊 Big Data Technologies</h3>
+<img src="https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spark%20Streaming-FF5A1F?logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Hadoop-FFB400?logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Hive-FDEE21?logo=apachehive&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Delta%20Lake-00B2FF?logo=deltalake&logoColor=white"/>
 
-### **🌊 Big Data Technologies**  
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
-![Spark Structured Streaming](https://img.shields.io/badge/-Spark%20Streaming-FF5A1F?logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-FFB400?logo=apachehadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/-Hive-FDEE21?logo=apachehive&logoColor=black)
-![Delta Lake](https://img.shields.io/badge/-Delta%20Lake-00B2FF?logo=deltalake&logoColor=white)
+<h3>🗃 Databases & Storage</h3>
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MSSQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ClickHouse-FFCC00?logo=clickhouse&logoColor=black"/>
+<img src="https://img.shields.io/badge/-MinIO-C72E49?logo=minio&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Azure%20Data%20Lake-0078D4?logo=microsoftazure&logoColor=white"/>
 
----
+<h3>☁️ Cloud & DataOps</h3>
+<img src="https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white"/>
 
-### **🗃 Databases & Storage**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MSSQL Server](https://img.shields.io/badge/-MSSQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC00?logo=clickhouse&logoColor=black)
-![MinIO](https://img.shields.io/badge/-MinIO-C72E49?logo=minio&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazons3&logoColor=white)
-![Azure Data Lake](https://img.shields.io/badge/-Azure%20Data%20Lake-0078D4?logo=microsoftazure&logoColor=white)
+<h3>📊 Visualization</h3>
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Matplotlib-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Metabase-509EE3?logo=metabase&logoColor=white"/>
 
----
-
-### **☁️ Cloud & DataOps**  
-![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
-
----
-
-### **📊 Visualization**  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?logo=python&logoColor=white)
-![Metabase](https://img.shields.io/badge/-Metabase-509EE3?logo=metabase&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Data Engineering Projects  
+<h2 align="center">🚀 Data Engineering Projects</h2>
 
-### **🚇 GTFS Real-Time Anomaly Detection**  
-**Real-Time Streaming Pipeline** for anomaly detection in transit data.  
-**Tech:** Kafka • Spark Structured Streaming • Airflow • Docker • ClickHouse • Grafana • Power BI  
-**Highlights:**  
-- Ingested **GTFS-RT APIs** into Kafka for real-time processing  
-- Applied **PySpark transformations** in the Silver layer  
-- Low-latency analytics powered by **ClickHouse**  
-- Visualized anomalies in **Grafana and Power BI**
+<table>
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <h3>🚇 GTFS Real-Time Anomaly Detection</h3>
+      <p><b>Tech:</b> Kafka • Spark Structured Streaming • Airflow • Docker • ClickHouse • Grafana • Power BI</p>
+      <ul align="left">
+        <li>Ingested GTFS-RT APIs into Kafka for real-time processing</li>
+        <li>Applied PySpark transformations in the Silver layer</li>
+        <li>Low-latency analytics powered by ClickHouse</li>
+        <li>Visualized anomalies in Grafana and Power BI</li>
+      </ul>
+    </td>
+    <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <h3>🏎️ Formula 1 Analytics Platform</h3>
+      <p><b>Tech:</b> Databricks • PySpark • Delta Lake • Azure Data Factory • Power BI</p>
+      <ul align="left">
+        <li>Incremental batch ingestion with ADF triggers</li>
+        <li>Gold-layer visualizations for drivers and constructors</li>
+        <li>Rich Power BI dashboards with interactive filters</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
-
-### **🏎️ Formula 1 Analytics Platform**  
-**Medallion Architecture** pipeline for Formula 1 data analytics on Azure Databricks.  
-**Tech:** Databricks • PySpark • Delta Lake • Azure Data Factory • Power BI  
-**Highlights:**  
-- Incremental batch ingestion with **ADF triggers**  
-- Gold-layer visualizations for **drivers and constructors**  
-- Rich **Power BI dashboards** with interactive filters  
-
----
-
-### **🏬 Sales Data Warehouse & ETL Pipeline**  
-**Star Schema Data Warehouse** for sales analytics and reporting.  
-**Tech:** SQL Server • SSIS • Talend • Power BI  
-**Highlights:**  
-- Designed a **star schema** with fact and dimension tables  
-- Built **incremental EL pipelines** with SSIS and Talend  
-- Implemented **SCD** for historical accuracy  
-- Created **Date and Time dimensions** for advanced reporting  
-
----
-
-### **✈️ SkyLinker – Airline Operations Management System**  
-**Integrated Airline Operations Platform** for planning, analytics, and maintenance management.  
-**Tech:** Django • PostgreSQL • HTML • CSS • JS • jQuery • AWS EC2  
-**Highlights:**  
-- Developed a **centralized database** for operations and maintenance data  
-- Built **data-driven modules** for itinerary optimization, market share analytics, and fleet routing  
-- Automated **Last Done–Next Due (LDND)** maintenance tracking with real-time updates  
-- Real-time **task alerts** and **analytics dashboards** for operational insights
-
----
-
-## 🎯 Current Learning Journey & Future Goals  
-
-| **🔥 Currently Learning** | **🎯 Next Milestones** |
-|:-------------------------:|:-----------------------:|
-| ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) **Kubernetes** for pipeline orchestration <br> ![dbt](https://img.shields.io/badge/-dbt-FD5438?logo=dbt&logoColor=white) **dbt** for modern data transformation <br> ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) **Infrastructure as Code (Terraform)** <br> 📚 Reading **data engineering books** to deepen expertise in pipelines, cloud, and big data best practices | - Building **end-to-end data engineering projects** with real-time and batch pipelines <br> - Earning **Databricks Data Engineer Associate certification** <br> - Completing **AWS certifications** (Cloud Practitioner, Solutions Architect Associate, Data Engineering Specializations) <br> - Expanding **IaC expertise** with Terraform for automated deployments <br> - Reaching a **high number of solved problems on LeetCode** to strengthen DSA skills |
-
----
-
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ho03)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/honda003)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohannad.husny@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Honda03/)
+<table>
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <h3>🏬 Sales Data Warehouse & ETL Pipeline</h3>
+      <p><b>Tech:</b> SQL Server • SSIS • Talend • Power BI</p>
+      <ul align="left">
+        <li>Designed a star schema with fact and dimension tables</li>
+        <li>Built incremental EL pipelines with SSIS and Talend</li>
+        <li>Implemented SCD for historical accuracy</li>
+        <li>Created Date and Time dimensions for advanced reporting</li>
+      </ul>
+    </td>
+    <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <h3>✈️ SkyLinker – Airline Operations Management System</h3>
+      <p><b>Tech:</b> Django • PostgreSQL • HTML • CSS • JS • jQuery • AWS EC2</p>
+      <ul align="left">
+        <li>Developed a centralized database for operations and maintenance data</li>
+        <li>Built modules for itinerary optimization, market analytics, and fleet routing</li>
+        <li>Automated LDND maintenance tracking with real-time updates</li>
+        <li>Analytics dashboards for actionable operational insights</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-⭐ *If you find my projects interesting, don’t forget to star them!* ⭐
+<h2 align="center">🎯 Current Learning Journey & Future Goals</h2>
+
+<table>
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <h3>🔥 Currently Learning</h3>
+      <p>
+        <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white"/> Kubernetes<br>
+        <img src="https://img.shields.io/badge/-dbt-FD5438?logo=dbt&logoColor=white"/> dbt<br>
+        <img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white"/> Infrastructure as Code<br>
+        📚 Reading advanced Data Engineering books
+      </p>
+    </td>
+    <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <h3>🎯 Next Milestones</h3>
+      <p>
+        🏗️ Build end-to-end real-time & batch data pipelines<br>
+        🎓 Earn Databricks Data Engineer Associate<br>
+        ☁️ Complete AWS certifications<br>
+        🔧 Master IaC with Terraform<br>
+        💻 Reach a high number of solved problems on <a href="https://leetcode.com/u/Honda03/">LeetCode</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ho03"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/honda003"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+  <a href="mailto:mohannad.husny@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Honda03/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">⭐ If you find my projects interesting, don’t forget to star them! ⭐</p>

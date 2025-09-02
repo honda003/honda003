@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=0:87CEEB,100:1E90FF&height=200&section=header&text=🙋🏻‍♂️%20Hi,%20I'm%20Mohaned&fontSize=30&fontAlign=50&fontAlignY=50)
 <h1 align="center">☁️ Flying high with data ☁️</h1>
-<h3 align="center">Data Engineer | Aeronautical Engineer | Management Engineer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&size=24&lines=Data+Engineer;Big+Data+Enthusiast;Cloud+Native+Pipelines;Real-time+Streaming;ETL+Automation&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&size=24&lines=Data+Engineer;Big+Data+Enthusiast;Aeronautical+Engineer;Management+Engineer;ETL+Automation&pause=1000" alt="Typing SVG" />
 </p>
 
 ---

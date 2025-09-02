@@ -27,7 +27,7 @@
 
 <h2 align="left">🎯 Current Focus</h2>
 
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" style="border: 1px solid #ccc; padding: 10px;">
       🚀 Building <b>scalable data pipelines</b><br>

@@ -100,8 +100,8 @@
 
 <table>
   <tr>
-    <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
-       <h3>🚇 GTFS Real-Time Transit Data Pipeline</h3>
+   <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
+  <h3>🚇 GTFS Real-Time Transit Data Pipeline</h3>
   <p><b>Tech:</b> Azure • Apache Airflow • Apache Kafka • Apache Spark • PostgreSQL • ClickHouse • Azure Data Lake • Power BI • Metabase • Docker</p>
   <ul align="left">
     <li>Orchestrated <b>batch pipelines</b> with Airflow and Spark, implementing <b>SCD Type 2</b> in PostgreSQL, and optimized analytics with ClickHouse.</li>
@@ -109,7 +109,16 @@
     <li>Created <b>day-to-day operational dashboards</b> in Power BI and <b>real-time dashboards</b> in Metabase.</li>
     <li>Delivered <b>business value</b> by enabling resource optimization, improving on-time performance, and enhancing passenger experience.</li>
   </ul>
-    </td>
+</td>
+<td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
+  <h3>🏎️ Formula 1 Analytics Platform</h3>
+  <p><b>Tech:</b> Databricks • PySpark • Delta Lake • Azure Data Factory • Power BI</p>
+  <ul align="left">
+    <li>Incremental batch ingestion with <b>ADF triggers</b>.</li>
+    <li>Gold-layer visualizations for <b>drivers and constructors</b>.</li>
+    <li>Rich Power BI dashboards with <b>interactive filters</b>.</li>
+  </ul>
+</td>
   </tr>
 </table>
 

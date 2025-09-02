@@ -9,21 +9,38 @@
 
 ## 🧑‍💻 About Me  
 
-| 🎓 **Education & Background** | 🌟 **Professional** |
-|:-----------------------------:|:-------------------:|
-| 🎓 **Data Engineering Track (ITI, 2025)**  <br> 🎓 **Aeronautical Engineering & Aviation Management** — Cairo University (GPA: 3.35)  <br> 🏆 **Graduation Project:** SkyLinker – Airline Operations System (A+) | 🚀 **Data Engineer** with a strong foundation in **big data**, **cloud services**, and **data architectures**. Skilled at building **real-time streaming pipelines**, **ETL workflows**, and **analytics dashboards** for decision-making. |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎓 Education & Background</h3>
+      <p>🎓 <b>Data Engineering Track (ITI, 2025)</b><br>
+      🎓 <b>Aeronautical Engineering & Aviation Management</b><br>
+      Cairo University (GPA: 3.35)<br>
+      🏆 <b>Graduation Project:</b> SkyLinker – Airline Operations System (A+)</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌟 Professional</h3>
+      <p>🚀 <b>Data Engineer</b> with a strong foundation in <b>big data</b>, <b>cloud services</b>, and <b>data architectures</b>.<br>
+      Skilled at building <b>real-time streaming pipelines</b>, <b>ETL workflows</b>, and <b>analytics dashboards</b> for decision-making.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎯 Current Focus  
 
-| Focus Areas |
-|:-----------:|
-| 🚀 Building **scalable data pipelines**  |
-| ⚡ Designing **real-time streaming architectures**  |
-| ☁️ Building **cloud-native solutions** on **Azure** and **AWS**  |
-| 🔄 Automating **ETL/ELT workflows** for analytics  |
-| 🎨 Crafting **streaming and analytical dashboards** that bring data to life  |
+<table>
+  <tr>
+    <td align="center">
+      🚀 Building <b>scalable data pipelines</b><br>
+      ⚡ Designing <b>real-time streaming architectures</b><br>
+      ☁️ Building <b>cloud-native solutions</b> on <b>Azure</b> and <b>AWS</b><br>
+      🔄 Automating <b>ETL/ELT workflows</b> for analytics<br>
+      🎨 Crafting <b>streaming and analytical dashboards</b> that bring data to life
+    </td>
+  </tr>
+</table>
 
 ---
 

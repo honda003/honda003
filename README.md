@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&size=24&lines=Data+Engineer;Big+Data+Enthusiast;Aeronautical+Engineer;Management+Engineer;ETL+Automation&pause=1000" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%20-36BCF7?style=for-the-badge&labelColor=36BCF7&color=9B59B6" width="1%">
-</p>
+---
 
 <h2 align="left">🧑‍💻 About Me</h2>
 

@@ -1,6 +1,6 @@
 # ✈️ Flying high with data | Aeronautical roots • Data Engineering Enthusiast
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&lines=Data+Engineer;Big+Data+Enthusiast;Cloud+Native+Pipelines;Real-time+Streaming;ETL+Automation)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&size=24&lines=Data+Engineer+•+Big+Data+Enthusiast+•+Cloud+Native+Pipelines+•+Real-time+Streaming+•+ETL+Automation)
 
 ---
 

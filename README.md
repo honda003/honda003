@@ -134,7 +134,7 @@
     </td>
     <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
       <h3>✈️ SkyLinker – Airline Operations Management System</h3>
-      <p><b>Tech:</b> Django • PostgreSQL • HTML • CSS • JS • jQuery • AWS EC2</p>
+      <p><b>Tech:</b> Django • HTML • CSS • JS • jQuery • AWS EC2</p>
       <ul align="left">
         <li>Developed a centralized database for operations and maintenance data</li>
         <li>Built modules for itinerary optimization, market analytics, and fleet routing</li>

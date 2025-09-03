@@ -54,7 +54,6 @@
 <img src="https://img.shields.io/badge/-SSIS-CC2927?logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SSAS-CC2927?logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Talend-F80000?logo=talend&logoColor=white"/>
-<img src="https://img.shields.io/badge/-dbt-FD5438?logo=dbt&logoColor=white"/>
 
 <h3>🌊 Big Data Technologies</h3>
 <img src="https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white"/>
@@ -82,7 +81,6 @@
 <img src="https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white"/>
 
 <h3>📊 Visualization</h3>
 <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black"/>

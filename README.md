@@ -98,7 +98,9 @@
   ✔ <b>Data Warehouses & BI Analytics</b></br>
   ✔ <b>Stream Processing & Event-Driven Systems</b></br>
   ✔ <b>Cloud Data Pipelines</b></br>
+  ✔ <b>Aware of the data engineering life cycle</b></br>
   ✔ <b>Decision Support & Full-Stack Analytics Platforms</b></br>
+  ✔ <b>Data Engineering Lifecycle Concepts</b> (DataOps, data management, orchestration, software engineering practices) </br>
 </ul>
 
 <h3 align="left">📂 Explore My Repositories</h3>

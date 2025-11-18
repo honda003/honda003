@@ -94,11 +94,11 @@
 <h2 align="left">🔥 What I Build</h2>
 
 <ul style="list-style-type:none; padding-left:0; font-size:16px;">
-  ✔ <b>Modern Data Architectures</b> (Medallion, Lambda, Kappa)
-  ✔ <b>Data Warehouses & BI Analytics</b>
-  ✔ <b>Stream Processing & Event-Driven Systems</b>
-  ✔ <b>Cloud Data Pipelines</b>
-  ✔ <b>Decision Support & Full-Stack Analytics Platforms</b>
+  ✔ <b>Modern Data Architectures</b> (Medallion, Lambda, Kappa)</br>
+  ✔ <b>Data Warehouses & BI Analytics</b></br>
+  ✔ <b>Stream Processing & Event-Driven Systems</b></br>
+  ✔ <b>Cloud Data Pipelines</b></br>
+  ✔ <b>Decision Support & Full-Stack Analytics Platforms</b></br>
 </ul>
 
 <h3 align="left">📂 Explore My Repositories</h3>

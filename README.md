@@ -91,57 +91,20 @@
 </div>
 
 ---
+<h2 align="left">🔥 What I Build</h2>
 
-<h2 align="left">🚀 Data Engineering Projects</h2>
+<ul style="list-style-type:none; padding-left:0; font-size:16px;">
+  <li>✔ <b>Modern Data Architectures</b> (Medallion, Lambda, Kappa)</li>
+  <li>✔ <b>Data Warehouses & BI Analytics</b></li>
+  <li>✔ <b>Stream Processing & Event-Driven Systems</b></li>
+  <li>✔ <b>Cloud Data Pipelines</b></li>
+  <li>✔ <b>Decision Support & Full-Stack Analytics Platforms</b></li>
+</ul>
 
-<table>
-  <tr>
-   <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
-  <h3>🚇 GTFS Real-Time Transit Data Pipeline</h3>
-  <p><b>Tech:</b> Azure • Apache Airflow • Apache Kafka • Apache Spark • PostgreSQL • ClickHouse • Azure Data Lake • Power BI • Metabase • Docker</p>
-  <ul align="left">
-    <li>Orchestrated <b>batch pipelines</b> with Airflow and Spark, implementing <b>SCD Type 2</b> in PostgreSQL, and optimized analytics with ClickHouse.</li>
-    <li>Ingested <b>GTFS-RT feeds</b> into Kafka and applied <b>Spark Structured Streaming</b> for real-time processing.</li>
-    <li>Created <b>day-to-day operational dashboards</b> in Power BI and <b>real-time dashboards</b> in Metabase.</li>
-    <li>Delivered <b>business value</b> by enabling resource optimization, improving on-time performance, and enhancing passenger experience.</li>
-  </ul>
-</td>
-<td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
-  <h3>🏎️ Formula 1 Analytics Platform</h3>
-  <p><b>Tech:</b> Databricks • PySpark • Delta Lake • Azure Data Factory • Power BI</p>
-  <ul align="left">
-    <li>Incremental batch ingestion with <b>ADF triggers</b>.</li>
-    <li>Gold-layer visualizations for <b>drivers and constructors</b>.</li>
-    <li>Rich Power BI dashboards with <b>interactive filters</b>.</li>
-  </ul>
-</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
-      <h3>🏬 Sales Data Warehouse & ETL Pipeline</h3>
-      <p><b>Tech:</b> SQL Server • SSIS • Talend • Power BI</p>
-      <ul align="left">
-        <li>Designed a star schema with fact and dimension tables</li>
-        <li>Built incremental EL pipelines with SSIS and Talend</li>
-        <li>Implemented SCD for historical accuracy</li>
-        <li>Created Date and Time dimensions for advanced reporting</li>
-      </ul>
-    </td>
-    <td width="50%" align="center" style="border: 1px solid #ccc; padding: 10px;">
-      <h3>✈️ SkyLinker – Airline Operations Management System</h3>
-      <p><b>Tech:</b> Django • HTML • CSS • JS • jQuery • AWS EC2</p>
-      <ul align="left">
-        <li>Developed a centralized database for operations and maintenance data</li>
-        <li>Built modules for itinerary optimization, market analytics, and fleet routing</li>
-        <li>Automated LDND maintenance tracking with real-time updates</li>
-        <li>Analytics dashboards for actionable operational insights</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h3 align="left">📂 Explore My Repositories</h3>
+<p>
+  Dive into my full project portfolio — real-time pipelines, lakehouses, data warehouses, end-to-end cloud systems, and more.
+</p>
 
 ---
 

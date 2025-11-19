@@ -48,6 +48,7 @@
 <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PySpark-FDEE21?logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/-dbt-FD5438?logo=dbt&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white"/>
 
 <h3>🛠️ Data Engineering & ETL Tools</h3>
@@ -120,7 +121,6 @@
       <h3>🔥 Currently Learning</h3>
       <p>
         <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white"/> Kubernetes<br>
-        <img src="https://img.shields.io/badge/-dbt-FD5438?logo=dbt&logoColor=white"/> dbt<br>
         <img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white"/> Infrastructure as Code<br>
         📚 Reading advanced Data Engineering books
       </p>
